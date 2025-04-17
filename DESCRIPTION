@@ -1,7 +1,7 @@
 Package: mdlJHCreditCalculationUI
 Type: Package
 Title: UI Package For DMS mdlJHCreditCalculation Module in R
-Version: 1.0.0
+Version: 1.0.1
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: More about what it does (maybe more than one line)
@@ -12,3 +12,27 @@ LazyData: true
 RoxygenNote: 7.1.1
 Collate: 
     'CreditCalculation.R'
+    'count_stat.R'
+    'Task.R'
+    'Core.R'
+    'BankInfo.R'
+    'PartnerList.R'
+    'EmployeeList.R'
+    'TagList.R'
+    'InvestmentList.R'
+    'TaxCreditList.R'
+    'ShiXin.R'
+    'ZhiXing.R'
+    'AdminPenalty.R'
+    'Exception.R'
+    'ChattelMortgage.R'
+    'EquityPledge.R'
+    'SeriousIllegal.R'
+    'EquityFreeze.R'
+    'JudicialSale.R'
+    'Bankruptcy.R'
+    'Sumptuary.R'
+    'EnvPunishment.R'
+    'TaxOweNotice.R'
+    'TaxIllegal.R'
+    'TaxAbnormal.R'
